@@ -121,7 +121,6 @@ E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Text.Encodings.Web.xml
 E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Text.Json.xml
 E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Threading.Tasks.Extensions.xml
 E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.ValueTuple.xml
-E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.CopyComplete
 E:\laptrinhnet\DangNhapSinhvien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
 E:\laptrinhnet\DangNhapSinhvien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 E:\laptrinhnet\DangNhapSinhvien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
@@ -183,9 +182,8 @@ E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms
 E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportPhieuyeucau.resources
 E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportthahtoanphong.resources
 E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportthoigianvangmat.resources
-E:\laptrinhnet\DangNhapSinhvien\obj\Debug\RdlCompile.cache
-E:\laptrinhnet\DangNhapSinhvien\obj\Debug\RdlCompile.compiled
 E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportSinhvien.resources
 E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.ReportPhong.resources
 E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportmatmat.resources
 E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportlichsuchuyenphong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhap.2A652324.Up2Date
