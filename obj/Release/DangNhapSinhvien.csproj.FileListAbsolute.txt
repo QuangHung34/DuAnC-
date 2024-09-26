@@ -1,0 +1,12 @@
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.csproj.AssemblyReference.cache
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.Form2.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.lichsuchuyephong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.matmat.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.Phieuyeucau.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.phong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.Properties.Resources.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.Sinhvien.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.thanhtoanphong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.thoigianvangmat.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.csproj.GenerateResource.cache
+E:\laptrinhnet\DangNhapSinhvien\obj\Release\DangNhapSinhvien.csproj.CoreCompileInputs.cache

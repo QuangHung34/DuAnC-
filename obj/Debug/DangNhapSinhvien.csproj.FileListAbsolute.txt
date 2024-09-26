@@ -1,0 +1,191 @@
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe.config
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.pdb
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.AssemblyReference.cache
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Properties.Resources.resources
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Sinhvien.resources
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.GenerateResource.cache
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.CoreCompileInputs.cache
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.exe
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.pdb
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.phong.resources
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.lichsuchuyephong.resources
+D:\Baitap\c#\DangNhapSinhvien\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.matmat.resources
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe.config
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.pdb
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.AssemblyReference.cache
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.lichsuchuyephong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.matmat.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.phong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Properties.Resources.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Sinhvien.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.GenerateResource.cache
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.CoreCompileInputs.cache
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.exe
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.pdb
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Phieuyeucau.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.thanhtoanphong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.thoigianvangmat.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Luachonform.resources
+D:\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe.config
+D:\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe
+D:\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.pdb
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.AssemblyReference.cache
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Form1.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.lichsuchuyephong.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Luachonform.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.matmat.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Phieuyeucau.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.phong.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Properties.Resources.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Sinhvien.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.thanhtoanphong.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.thoigianvangmat.resources
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.GenerateResource.cache
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.CoreCompileInputs.cache
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.exe
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.pdb
+D:\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.frmLogin.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.frmLogin.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe.config
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.exe
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\DangNhapSinhvien.pdb
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.AssemblyReference.cache
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.frmLogin.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.lichsuchuyephong.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Luachonform.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.matmat.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Phieuyeucau.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.phong.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Properties.Resources.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.Sinhvien.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.thanhtoanphong.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.thoigianvangmat.resources
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.GenerateResource.cache
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.CoreCompileInputs.cache
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.exe
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.pdb
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\Bunifu.Licensing.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\RestSharp.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Buffers.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.CodeDom.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Memory.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Text.Json.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.ValueTuple.dll
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\RestSharp.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Buffers.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.CodeDom.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Memory.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Text.Json.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\bin\Debug\System.ValueTuple.xml
+C:\Users\tien\OneDrive\Máy tính\DangNhapSinhvien\obj\Debug\DangNhap.2A652324.Up2Date
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Bunifu.Licensing.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Bunifu.UI.WinForms.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Newtonsoft.Json.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\RestSharp.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Buffers.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.CodeDom.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Memory.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Numerics.Vectors.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Text.Encodings.Web.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Text.Json.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.ValueTuple.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Bunifu.UI.WinForms.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Newtonsoft.Json.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\RestSharp.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Buffers.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.CodeDom.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Memory.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Numerics.Vectors.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Text.Encodings.Web.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Text.Json.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\System.ValueTuple.xml
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.csproj.CopyComplete
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\EnvDTE.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\stdole.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\Microsoft.MSXML.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportPhieuyeucau.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportthahtoanphong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportthoigianvangmat.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\RdlCompile.cache
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\RdlCompile.compiled
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportSinhvien.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.ReportPhong.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportmatmat.resources
+E:\laptrinhnet\DangNhapSinhvien\obj\Debug\DangNhapSinhvien.reportlichsuchuyenphong.resources

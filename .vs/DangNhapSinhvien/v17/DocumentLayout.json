@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\laptrinhnet\\DangNhapSinhvien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\luachonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:luachonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\phieuyeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:phieuyeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|e:\\laptrinhnet\\dangnhapsinhvien\\luachonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:luachonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\matmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:matmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\matmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:matmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\thanhtoanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:thanhtoanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\lichsuchuyephong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:lichsuchuyephong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\thoigianvangmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:thoigianvangmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\ky_tuc_xadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:ky_tuc_xadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|E:\\laptrinhnet\\DangNhapSinhvien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE7EBF-7994-4DA3-8AAE-768D64076921}|DangNhapSinhvien.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "matmat.cs",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\matmat.cs",
+              "RelativeDocumentMoniker": "matmat.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\matmat.cs",
+              "RelativeToolTip": "matmat.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAwwJQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:25:11.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sinhvien.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "Sinhvien.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\Sinhvien.cs [Design]",
+              "RelativeToolTip": "Sinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:43:40.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phieuyeucau.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\Phieuyeucau.cs",
+              "RelativeDocumentMoniker": "Phieuyeucau.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\Phieuyeucau.cs [Design]",
+              "RelativeToolTip": "Phieuyeucau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:02:31.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Luachonform.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\Luachonform.cs",
+              "RelativeDocumentMoniker": "Luachonform.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\Luachonform.cs [Design]",
+              "RelativeToolTip": "Luachonform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:34:38.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "matmat.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\matmat.cs",
+              "RelativeDocumentMoniker": "matmat.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\matmat.cs [Design]",
+              "RelativeToolTip": "matmat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:35:58.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Luachonform.cs",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\Luachonform.cs",
+              "RelativeDocumentMoniker": "Luachonform.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\Luachonform.cs",
+              "RelativeToolTip": "Luachonform.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:37:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "Sinhvien.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\Sinhvien.cs",
+              "RelativeToolTip": "Sinhvien.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAewG8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:15:46.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "phong.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\phong.cs",
+              "RelativeDocumentMoniker": "phong.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\phong.cs [Design]",
+              "RelativeToolTip": "phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:02:12.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "thanhtoanphong.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\thanhtoanphong.cs",
+              "RelativeDocumentMoniker": "thanhtoanphong.cs",
+              "ToolTip": "C:\\Users\\tien\\OneDrive\\M\u00E1y t\u00EDnh\\DangNhapSinhvien\\thanhtoanphong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:02:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lichsuchuyephong.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\lichsuchuyephong.cs",
+              "RelativeDocumentMoniker": "lichsuchuyephong.cs",
+              "ToolTip": "C:\\Users\\tien\\OneDrive\\M\u00E1y t\u00EDnh\\DangNhapSinhvien\\lichsuchuyephong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:43:30.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "thoigianvangmat.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\thoigianvangmat.cs",
+              "RelativeDocumentMoniker": "thoigianvangmat.cs",
+              "ToolTip": "C:\\Users\\tien\\OneDrive\\M\u00E1y t\u00EDnh\\DangNhapSinhvien\\thoigianvangmat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:58:53.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\tien\\OneDrive\\M\u00E1y t\u00EDnh\\DangNhapSinhvien\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:27:38.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KY_TUC_XADataSet.xsd",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\KY_TUC_XADataSet.xsd",
+              "RelativeDocumentMoniker": "KY_TUC_XADataSet.xsd",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\KY_TUC_XADataSet.xsd",
+              "RelativeToolTip": "KY_TUC_XADataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-24T12:02:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:00:09.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T12:02:11.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\laptrinhnet\\DangNhapSinhvien\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "E:\\laptrinhnet\\DangNhapSinhvien\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:30:21.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
